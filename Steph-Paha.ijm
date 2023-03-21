@@ -1,4 +1,5 @@
-open("C:/Program Files (x86)/Dianyang/Infrared Thermal Imaging Analysis/Picture/20230222/20230222-123001-458.out.jpg");
+//open("C:/Program Files (x86)/Dianyang/Infrared Thermal Imaging Analysis/Picture/20230222/20230222-123001-458.out.jpg");
+open("C:/Users/INTEL-NUC/fiji-win64/Fiji.app/plugins/Workspace/Thermal/thermal_imaging/20230222-123001-458.out.jpg");
 run("Duplicate...", " ");
 selectWindow("20230222-123001-458.out.jpg");
 //setTool("polygon");
